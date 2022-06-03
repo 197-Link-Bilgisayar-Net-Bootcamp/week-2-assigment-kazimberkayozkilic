@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.API", "EFCore.API\EFCore.API.csproj", "{74E1B5B6-1735-4918-A333-8F80A390654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrensib", "SOLIDPrensib\SOLIDPrensib.csproj", "{B1E0D470-CB08-4988-8E0E-57CB2A54478F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E1B5B6-1735-4918-A333-8F80A390654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E1B5B6-1735-4918-A333-8F80A390654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E1B5B6-1735-4918-A333-8F80A390654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E1B5B6-1735-4918-A333-8F80A390654C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E0D470-CB08-4988-8E0E-57CB2A54478F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E0D470-CB08-4988-8E0E-57CB2A54478F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E0D470-CB08-4988-8E0E-57CB2A54478F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E0D470-CB08-4988-8E0E-57CB2A54478F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057F1906-1B4F-43F0-88A0-060CE868C105}
+	EndGlobalSection
+EndGlobal
